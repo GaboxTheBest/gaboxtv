@@ -2,7 +2,7 @@
 Hola, soy Gabox y dare mas a detalle este proyecto y recomendaciones para actualizar la pagina con nuevos reproductores
 
 # ¿Como fue hecho?
-Fue hecho con BING AI, le pedi una pagina y le fui agregando cosas que tenia en mente,lo arregle para que quede asi. Le puse pocos canales pero les pueden poner los que quieran.
+Fue hecho con BING AI, le pedi una pagina y le fui agregando cosas que tenia en mente, lo arregle para que quede asi. Le puse pocos canales pero les pueden poner los que quieran.
 
 # ¿Como añedirle mas canales?
 Para añedirle mas canales deben ir a [Futbol Libre](https://futbollibretv.tv/) y elegir el canal.
