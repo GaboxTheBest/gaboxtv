@@ -18,7 +18,7 @@ Despues de eso usaran esta plantilla y la pondran en otro contenedor
   <div class="separador"></div>
   <div class="video">
     <!-- Aquí va el enlace de la transmisión en vivo -->
-    <iframe class="embed-responsive-item" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" src="Link de la transmicion" scrolling="no"></iframe>
+    <iframe class="embed-responsive-item" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" src="Link de la transmision" scrolling="no"></iframe>
 
   </div>
   <div class="separador"></div>
@@ -27,6 +27,6 @@ Despues de eso usaran esta plantilla y la pondran en otro contenedor
   </div>
 </div>
 ```
-En donde dice link de la transmicion copien el link del codigo de futbol libre en donde dice scr="link".
+En donde dice link de la tranmision copien el link del codigo de futbol libre en donde dice ```scr="link"```.
 
 # Ahi lo tendrian hecho :)
