@@ -27,6 +27,6 @@ Despues de eso usaran esta plantilla y la pondran en otro contenedor
   </div>
 </div>
 ```
-En donde dice link de la tranmision copien el link del codigo de futbol libre en donde dice ```scr="link"```.
+En donde dice link de la transmision copien el link del codigo de futbol libre en donde dice ```scr="link"```.
 
 # Ahi lo tendrian hecho :)
